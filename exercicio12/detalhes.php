@@ -24,7 +24,7 @@
                 echo ("<div class='col text-center'>");
                 echo ("<p class='font-weight-bold text-uppercase'>" . $matriz_noticias[$noticia][1] . "</p>");
                 echo ("<img class='img-thumbnail' src='" . $matriz_noticias[$noticia][3] . "' alt='Foto da Notícia' />");
-                echo ("<p class='text-justify mt-2'>" . $matriz_noticias[$noticia][2] . "</p");
+                echo ("<p class='text-justify mt-2'>" . $matriz_noticias[$noticia][2] . "</p>");
                 echo ("</div>");
                 ?>
             </div>
